@@ -1,0 +1,5 @@
+Little python script that implements a tail like functionality using the select 
+module. It also accepts remote ssh file like user@host:path.
+
+Enjoy!
+
