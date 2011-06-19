@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 import os
-import re 
 import time
 import select
 from subprocess import *
 import argparse
 import fcntl
-import time
 
 
 class Reader():
